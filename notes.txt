@@ -1,0 +1,4 @@
+online public place for notes, using github.
+
+thinking of eventually finding simple wrappers to make this into a blog or similar;
+
